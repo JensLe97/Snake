@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 .vscode/settings.json
 workspace.code-workspace
+highscore.txt.bak
+highscore.txt.dat
+highscore.txt.dir
